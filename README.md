@@ -25,7 +25,7 @@ Since objects in the coordinate system can make movements now, I tried to design
 After I’ve done the main structure of the game, as the document’s content request, I should add at least one object to the game using the **Pop and Push Stack**. So, I design a new class **Environment** from which the **MagicalBroom** and the **MagicHat** derives. By using the **Pop and Push Stack**, we could create a composite object with several separate object. For example, here is the code of the **move()** in **MagicalBroom:**
 
 ```java
-     void move(){
+    void move(){
         pushMatrix();
             if(this.x>1370||this.x<130){
             speed = -speed;
