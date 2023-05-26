@@ -114,6 +114,6 @@ Press **“W, A, S, D”** to transform the littleHarry and click the mouse to f
    run **.pde** source file in **/src** folder. 
 
 ## Author
-  Wrote by azusaings@gmail.com - 2021/10/26
-  UI Source by Mercurii@music.163.com -2021/10/26
-  Revised by azusaings@gmail.com - 2023/5/23
+  * Wrote by azusaings@gmail.com - 2021/10/26
+  * UI Source by Mercurii@music.163.com -2021/10/26
+  * Revised by azusaings@gmail.com - 2023/5/23
